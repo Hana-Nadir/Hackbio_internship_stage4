@@ -1,6 +1,9 @@
-**Summary of Optimized HDAC11 Inhibitor with Anti-Neuroblastoma Activity
-Baselious, F., *et al*. (2024)**
-
+# **Summary of Optimized HDAC11 Inhibitor with Anti-Neuroblastoma Activity , Baselious, F., *et al*. (2024)**
+## Authors:
+         Hanna (@slack)
+         BigWils (@slack)
+         DerleenM (@slack)
+## Background         
 Histone deacetylases (HDACs) play a crucial role in cellular homeostasis
 by regulating gene expression through the removal of acetyl groups from
 histone lysine residues, resulting in chromatin condensation and
@@ -24,7 +27,7 @@ developments underscore the therapeutic promise of HDAC inhibition in
 cancer treatment and highlight the potential of targeted approaches in
 addressing specific HDAC-mediated oncogenic processes.
 
-References:
+## References:
 
 Baselious, F., et al. (2024). Utilization of an optimized AlphaFold
 protein model for structure-based design of a selective HDAC11 inhibitor
