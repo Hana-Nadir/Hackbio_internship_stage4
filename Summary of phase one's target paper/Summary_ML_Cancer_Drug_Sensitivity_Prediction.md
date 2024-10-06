@@ -1,6 +1,9 @@
-**Summary of Predicting Cancer Drug Response with Machine Learning
-(Menden et al., 2013).**
-
+# **Summary of Predicting Cancer Drug Response with Machine Learning ,(Menden et al., 2013).**
+## Authors : 
+         Hanna (@slack)
+         BigWils (@slack)
+         DerleenM(@slack)
+## Background         
 This work demonstrates the use of machine learning in the prediction of
 cancer cell line sensitivity to drugs based on genomic features and
 chemical properties of drugs (Menden et al., 2013). The developed neural
@@ -36,7 +39,7 @@ This work demonstrates how machine learning can integrate diverse data
 types to accelerate the process of cancer drug discovery and development
 (Menden et al., 2013).
 
-**Reference**
+## **Reference**
 
 Menden, M.P., Iorio, F., Garnett, M., McDermott, U., Benes, C.H.,
 Ballester, P.J. and Saez-Rodriguez, J., 2013. Machine learning
