@@ -1,6 +1,6 @@
-**IC50 Prediction Using Machine Learning**
+# IC50 Prediction Using Machine Learning
 
-**Background**  
+## **Background**  
 This study utilized the Genomics of Drug Sensitivity in Cancer (GDSC)
 dataset to build a machine learning model predicting drug sensitivity
 (LN_IC50) for the SK-MEL-2 cancer cell line. The dataset was curated to
@@ -8,7 +8,7 @@ retain key features: CELL_LINE_NAME, TCGA_DESC, DRUG_NAME, and LN_IC50.
 SMILES notations for the drugs were generated using public databases
 like PubChem, and molecular descriptors were extracted using RDKit.
 
-**Methodology**  
+## **Methodology**  
 SMILES were used to generate molecular descriptors, and the dataset was
 split for training and evaluation. PyCaret library was used for model
 selection. The model\'s performance was evaluated using Mean Absolute
@@ -17,7 +17,7 @@ Hyperparameter optimization was conducted via grid search. The final
 model was assessed using 10-fold cross-validation, and the predicted
 LN_IC50 values were compared to actual values through a scatter plot.
 
-**Results**  
+## **Results**  
 The cross-validation results showed an average **MAE** of 1.93, **RMSE**
 of 2.48, and **R²** of 0.0981, explaining only about 9.81% of the
 variance in LN_IC50 values. However, the scatter plot comparing
@@ -25,7 +25,7 @@ predicted to actual values yielded a correlation coefficient of
 **0.81**, suggesting a strong positive correlation despite the model\'s
 limited predictive power.
 
-**Cross-Validation Results**
+## **Cross-Validation Results**
 
 | Fold | MAE        | MSE        | RMSE       | R²         | RMSLE      | MAPE       |
 |------|------------|------------|------------|------------|------------|------------|
@@ -47,7 +47,7 @@ height="3.407673884514436in"}
 
 Fig 1: Plot of actual IC50 against predicted IC50
 
-**Comparison of Findings**  
+## **Comparison of Findings**  
 When compared to the reference study by Menden et al., this model
 underperformed, as Menden\'s model achieved higher R² values of **0.72**
 in cross-validation and **0.64** in blind testing. This performance gap
@@ -55,7 +55,7 @@ is likely due to the lack of genomic features in this analysis, as
 Menden et al. incorporated both genomic and chemical data for better
 accuracy.
 
-**Conclusion and Insights**  
+## **Conclusion and Insights**  
 In conclusion, this task demonstrates the potential of machine learning
 to predict drug sensitivity in cancer treatment, showing a strong
 correlation between predicted and actual LN_IC50 values. The limited R²
@@ -63,7 +63,7 @@ value (0.0981) suggests room for improvement. Despite modest
 performance, the research demonstrates the importance of predictive
 modeling in drug discovery process.
 
-**References**  
+## **References**  
 Menden, M. P., Iorio, F., Garnett, M., McDermott, U., Benes, C. H.,
 Ballester, P. J., & Saez-Rodriguez, J. (2013). Machine learning
 prediction of cancer cell sensitivity to drugs based on genomic and
