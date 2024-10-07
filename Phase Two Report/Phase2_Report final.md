@@ -63,7 +63,7 @@ _Figure 1: HDAC Binding Affinity Heatmap. This heatmap visualizes the binding af
 1. **HDAC11 Selectivity**: Baselious et al., 2024 highlighted FT895 as a selective HDAC11 inhibitor with a docking affinity of −8.53 kcal/mol  Our results confirmed TMP269 as the ligand with the highest affinity for HDAC11, with a similar binding score of −8.53 kcal/mol.  
 2. **Cross-subtype Affinity**: While Baselious et al., 2024 focused primarily on HDAC11, our analysis includes all 11 HDAC subtypes. TMP269 and TMP195 demonstrated high affinities across multiple HDACs in our results, suggesting broader inhibitory potential compared to FT895.Our findings support TMP269 as a broad HDAC inhibitor with strong affinity for HDAC11.
 
-### **Docking Pose Visualization**
+### **Docking Poses Visualization**
 
 (a)= describe the 3D structure of the ligand within the binding site.  
 (b)= describe the 2D structure of the ligand and its interaction in the binding site**.**
