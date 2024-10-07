@@ -1,5 +1,8 @@
 # IC50 Prediction Using Machine Learning
-
+## Authors:
+          Hanna (@slack)
+          BigWils (@slack)
+          DerleenM (@slack)
 ## **Background**  
 This study utilized the Genomics of Drug Sensitivity in Cancer (GDSC)
 dataset to build a machine learning model predicting drug sensitivity
@@ -42,10 +45,15 @@ limited predictive power.
 | Mean | **1.9310** | **6.3146** | **2.4824** | **0.0981** | **0.5298** | **1.2340** |
 | Std  | **0.3210** | **1.8825** | **0.3904** | **0.1364** | **0.0938** | **0.5143** |
 
-![](media/image1.png){width="4.90434820647419in"
-height="3.407673884514436in"}
+
+
+
+
+![image](https://github.com/user-attachments/assets/92e99b67-b675-4756-8a7f-a9c303d345fc)
 
 Fig 1: Plot of actual IC50 against predicted IC50
+
+
 
 ## **Comparison of Findings**  
 When compared to the reference study by Menden et al., this model
