@@ -3,6 +3,7 @@
           Hanna (@slack)
           BigWils (@slack)
           DerleenM (@slack)
+## [Python Script](https://github.com/Hana-Nadir/Hackbio_internship_stage4/blob/main/Phase%20One%20Script/IC50%20prediction%20model_2.ipynb)          
 ## **Background**  
 This study utilized the Genomics of Drug Sensitivity in Cancer (GDSC)
 dataset to build a machine learning model predicting drug sensitivity
