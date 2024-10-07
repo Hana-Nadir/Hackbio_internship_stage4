@@ -65,8 +65,8 @@ _Figure 1: HDAC Binding Affinity Heatmap. This heatmap visualizes the binding af
 
 ### **Docking Pose Visualization**
 
-1)  \= describe the 3D structure of the ligand within the binding site.  
-2)  \= describe the 2D structure of the ligand and its interaction in the binding site**.**
+(a)= describe the 3D structure of the ligand within the binding site.  
+(b)= describe the 2D structure of the ligand and its interaction in the binding site**.**
 
 **1- HDAC 1 :**
 
