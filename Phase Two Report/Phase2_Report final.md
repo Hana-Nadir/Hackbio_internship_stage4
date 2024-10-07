@@ -1,6 +1,10 @@
 # **Virtual screening of Histone deacetylases subtypes : a Molecular Docking Study** 
 
 ---
+## Authors
+        Hanna (@slack)
+        BigWils (@slack)
+        DerleenM (@slack)
 
 ## **Introduction and Background :**
 
@@ -46,7 +50,13 @@ Table 1: Molecular Docking Analysis of HDAC Subtypes.
 
 ### **Comparative Binding Affinities of Compounds Across HDAC Subtypes**
 
-![][image1]Figure 1: HDAC Binding Affinity Heatmap. This heatmap visualizes the binding affinities of various compounds (represented by PubChem CIDs on the y-axis) across 11 HDAC subtypes (x-axis). 
+
+![image](https://github.com/user-attachments/assets/2d187f25-a07c-4da0-be8f-82ab69992ce4)
+
+
+_Figure 1: HDAC Binding Affinity Heatmap. This heatmap visualizes the binding affinities of various compounds (represented by PubChem CIDs on the y-axis) across 11 HDAC subtypes (x-axis)._ 
+
+
 
 ### **Comparison with The Target Paper**
 
@@ -60,69 +70,138 @@ Table 1: Molecular Docking Analysis of HDAC Subtypes.
 
 **1- HDAC 1 :**
 
-**![][image2]**
 
-**Figure 2: TMP269 (CID-53344908)  in HDAC1 binding site .** 
+![image](https://github.com/user-attachments/assets/a238b0b8-002a-4072-944a-57db974cf130)
+
+_Figure 2: TMP269 (CID-53344908)  in HDAC1 binding site ._
+
+
 
 **2- HDAC2 :**
 
-**![][image3]**
 
-**Figure 3: TMP195 (CID-67324851)  in HDAC2 binding site .**
+
+![image](https://github.com/user-attachments/assets/ef2f1c85-c6f6-4dba-bc7f-06ee50e30bc1)
+
+
+_Figure 3: TMP195 (CID-67324851)  in HDAC2 binding site ._
+
+
 
 **3- HDAC 3 :**
 
-**![][image4]**
 
-**Figure 4: TMP269 in HDAC3 binding site .** 
+
+![image](https://github.com/user-attachments/assets/73337dee-3b60-41c3-912f-78ab7973bdf3)
+
+
+_Figure 4: TMP269 in HDAC3 binding site ._
+
+
+
 
 **4- HDAC 4 :**
 
-**![][image5]**
 
-**Figure 5: Alpha-pinene (CID-6654) in HDAC4 binding site .** 
+
+![image](https://github.com/user-attachments/assets/4ad474f5-e478-4624-8bb1-b4f9aeca8219)
+
+
+_Figure 5: Alpha-pinene (CID-6654) in HDAC4 binding site ._ 
+
+
+
 
 **5- HDAC 5:** 
 
-**![][image6]**
 
-**Figure 6 : TMP269 in HDAC5 binding site .**
+
+![image](https://github.com/user-attachments/assets/d3eb8692-6e24-4f7b-918d-95ca18e9cebb)
+
+
+_Figure 6 : TMP269 in HDAC5 binding site ._
+
+
+
 
 **6- HDAC 6 :**
 
-**![][image7]**
 
-**Figure 7: TMP169 in HDAC6 binding site .** 
+
+![image](https://github.com/user-attachments/assets/90b3d448-0fd9-467c-9d65-c18d2a0bd776)
+
+
+_Figure 7: TMP169 in HDAC6 binding site ._
+
+
+
+
 
 **7- HDAC 7 :**
 
-**![][image8]**
 
-**Figure 8: TMP269 in HDAC7 binding site .**
+
+![image](https://github.com/user-attachments/assets/f8819174-8018-4a34-95bf-86cc28aaa5e5)
+
+
+_Figure 8: TMP269 in HDAC7 binding site ._
+
+
+
 
 **8- HDAC 8 :**
 
-**![][image9]**
 
-**Figure 9: TMP195 in HDAC8 binding site .**
+
+![image](https://github.com/user-attachments/assets/3c952b36-5454-4c7c-ad4b-5cc5b9d53587)
+
+
+_Figure 9: TMP195 in HDAC8 binding site ._
+
+
+
+
 
 **9- HDAC 9 :**
 
-**![][image10]**
 
-**Figure 10: TMP195 in HDAC9 binding site .**
+
+![image](https://github.com/user-attachments/assets/0d85064d-033a-4908-80e2-774aa045cb77)
+
+
+_Figure 10: TMP195 in HDAC9 binding site ._
+
+
+
+
+
 
 **10- HDAC 10 :**
 
-**![][image11]**
 
-**Figure 11: TMP269 in HDAC10 binding site .**
+
+![image](https://github.com/user-attachments/assets/87273f37-038f-4791-9265-60641e36f106)
+
+
+_Figure 11: TMP269 in HDAC10 binding site ._
+
+
+
+
+
 
 **11- HDAC 11 :**
 
-**![][image12]**
 
-**Figure 12: TMP269 in HDAC11 binding site .**
+
+![image](https://github.com/user-attachments/assets/228056b3-fd4e-433d-8856-82276c83c083)
+
+
+_Figure 12: TMP269 in HDAC11 binding site ._
+
+
+
+
 
 ## **Conclusion :**
 
