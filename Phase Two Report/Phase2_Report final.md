@@ -5,7 +5,7 @@
         Hanna (@slack)
         BigWils (@slack)
         DerleenM (@slack)
-
+## [Python Script](https://github.com/Hana-Nadir/Hackbio_internship_stage4/blob/main/Phase%20Two%20Script/Generating_Means_STDs_And_Heatmaps_for_the_docking_results_2.ipynb)
 ## **Introduction and Background :**
 
 Histone deacetylases (HDACs), are critical enzymes in the regulation of gene expression through the removal of acetyl groups from histones. This condenses chromatin with a resulting reduction in its transcription. Overexpression or misregulation of HDACs has been implicated in the growth and progression of tumors due to the silencing of tumor suppressor genes, promoting uncontrolled cell growth.
