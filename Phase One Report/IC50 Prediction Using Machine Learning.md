@@ -53,7 +53,8 @@ p-value: 0.0000
 
 
 
-![image](https://github.com/user-attachments/assets/92e99b67-b675-4756-8a7f-a9c303d345fc)
+![image](https://github.com/user-attachments/assets/3d212da0-bfdc-4e1a-bd9a-3e3406d9ca5c)
+
 
 Fig 1: Plot of actual IC50 against predicted IC50
 
