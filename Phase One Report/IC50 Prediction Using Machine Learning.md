@@ -26,9 +26,12 @@ The cross-validation results showed an average **MAE** of 1.93, **RMSE**
 of 2.48, and **R²** of 0.0981, explaining only about 9.81% of the
 variance in LN_IC50 values. However, the scatter plot comparing
 predicted to actual values yielded a correlation coefficient of
-**0.81**, suggesting a strong positive correlation despite the model\'s
+**0.3257**, suggesting a strong positive correlation despite the model\'s
 limited predictive power.
-
+Correlation Coefficient: 0.3257
+R-squared: 0.1061
+Root Mean Square Error (RMSE): 3.4693
+p-value: 0.0000
 ## **Cross-Validation Results**
 
 | Fold | MAE        | MSE        | RMSE       | R²         | RMSLE      | MAPE       |
